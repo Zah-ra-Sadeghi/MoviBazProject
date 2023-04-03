@@ -1,1 +1,1 @@
-# MoviBazProject
+# javascript-6-pages-project
